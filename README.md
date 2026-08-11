@@ -2,7 +2,7 @@
 This project is a grocery product page focused on implementing breadcrumb navigation using HTML and CSS while following a lesson provided by [Codecademy](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-improved-styling-with-css/modules/wdcp-22-learn-secondary-navigation-cd0549fb-731f-4d7a-ac10-11a0d8cf854f/projects/ui-breadcrumb-proj). It demonstrates how breadcrumbs can improve secondary navigation by showing both location and product attribute information.
 
 ## Live Demo
-View the project on [GitHub Pages](YOUR_GITHUB_PAGES_LINK).
+View the project on [GitHub Pages](https://brunorybicki.github.io/FreshDeals-Breadcrumbs/).
 
 ## Features
 - **Breadcrumb Navigation:** Displays the user's current location within the store hierarchy.
